@@ -12,7 +12,7 @@ The dataset used for this project contains two columns: `YearsExperience` and `S
 
 - `data/` : Contains the dataset files.
 - `scripts/` : Contains the implementation scripts.
-  - `simple_linear_regression.py` : Implementation of simple linear regression using scikit-learn and from scratch.
+  - `simple_linear_regression.ipynb` : Implementation of simple linear regression using scikit-learn and from scratch.
 - `README.md` : Project documentation.
 
 ## Requirements
